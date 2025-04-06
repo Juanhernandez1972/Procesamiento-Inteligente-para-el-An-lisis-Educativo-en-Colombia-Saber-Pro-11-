@@ -53,6 +53,7 @@ Se carga un archivo `.TXT` con los resultados de las pruebas Saber Pro-11 (por e
 Este pipeline automatiza el proceso **ETL** (Extracción, Transformación y Carga), permitiendo una gestión eficiente de los datos desde su origen hasta su almacenamiento final en un formato listo para análisis.
 
 La función `run_etl()` actúa como el **orquestador principal del flujo de trabajo**.
+![Flujo del Proceso ETL](flujoETL.png)
 
 ---
 
