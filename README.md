@@ -41,7 +41,7 @@ Se carga un archivo `.TXT` con los resultados de las pruebas Saber Pro-11 (por e
 - Manejo de valores nulos  
 - Creación de nuevas columnas  
 - Validaciones y estandarización de formatos  
-- Análisis exploratorio (opcional)
+- Análisis exploratorio
 
 ### 3. **Carga de datos**
 - Exportación del dataset limpio a un archivo `.csv`
