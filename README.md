@@ -1,10 +1,10 @@
-# 📊 Procesamiento Inteligente para el Análisis Educativo en Colombia (Saber Pro-11)
+# Procesamiento Inteligente para el Análisis Educativo en Colombia (Saber Pro-11)
 
 Este proyecto corresponde a la aplicación de distintos conocimientos adquiridos en la materia de **ETL (Extract, Transform, Load)** utilizando Python y sus librerías orientadas al análisis y procesamiento de datos. El objetivo principal es realizar la limpieza, transformación y carga de un conjunto de datos relacionados con los resultados de las pruebas **Saber Pro – 11** en Colombia.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar un proceso ETL para preparar datos de los resultados de las pruebas Saber Pro-11 con el fin de dejarlos listos para análisis posteriores. Esto incluye:
 
@@ -15,7 +15,7 @@ Aplicar un proceso ETL para preparar datos de los resultados de las pruebas Sabe
 
 ---
 
-### 👨‍💻 Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <br />
 
@@ -30,7 +30,7 @@ Aplicar un proceso ETL para preparar datos de los resultados de las pruebas Sabe
 
 ---
 
-## 🔍 Estructura del proceso ETL
+## Estructura del proceso ETL
 
 ### 1. **Extracción de datos**
 Se carga un archivo `.TXT` con los resultados de las pruebas Saber Pro-11 (por ejemplo: `SB11_20232.TXT`), que se convierte a un DataFrame.
@@ -58,7 +58,7 @@ La función `run_etl()` actúa como el **orquestador principal del flujo de trab
 
 ---
 
-## 🔁 Funcionalidades del Pipeline
+## Funcionalidades del Pipeline
 
 1. **Creación de estructura de carpetas**  
    - `create_project_structure()` genera carpetas para datos crudos, transformados, logs y otros archivos auxiliares.
@@ -80,7 +80,7 @@ La función `run_etl()` actúa como el **orquestador principal del flujo de trab
 
 ---
 
-## 🧪 Ejecución del Pipeline
+## Ejecución del Pipeline
 
 Para correr todo el flujo ETL, simplemente ejecuta:
 
@@ -90,7 +90,7 @@ run_etl()
 
 ---
 
-## 👥 Autores
+## Autores
 
 - Juan Felipe Hernández  
 - Manuel Enrique Luna Alegría  
